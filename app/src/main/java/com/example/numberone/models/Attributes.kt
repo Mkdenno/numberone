@@ -1,0 +1,30 @@
+package com.example.numberone.models
+
+data class Attributes(
+    val alias_names: List<Any>,
+    val animagus: Any,
+    val blood_status: Any,
+    val boggart: Any,
+    val born: Any,
+    val died: Any,
+    val eye_color: Any,
+    val family_members: List<Any>,
+    val gender: Any,
+    val hair_color: Any,
+    val height: Any,
+    val house: Any,
+    val image: Any,
+    val jobs: List<Any>,
+    val marital_status: Any,
+    val name: String,
+    val nationality: Any,
+    val patronus: Any,
+    val romances: List<Any>,
+    val skin_color: Any,
+    val slug: String,
+    val species: Any,
+    val titles: List<Any>,
+    val wands: List<Any>,
+    val weight: Any,
+    val wiki: String
+)
